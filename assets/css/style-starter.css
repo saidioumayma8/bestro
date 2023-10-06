@@ -4511,6 +4511,7 @@ input[type="button"].btn-block {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  color: var(--secondary-color) !important ;
 }
 
 .nav-link:hover,
@@ -14958,7 +14959,7 @@ a.navbar-brand:hover {
 .navbar-expand-lg .navbar-nav .nav-link.show */
 .navbar-expand-lg .navbar-nav .nav-item.active .nav-link,
 .navbar-expand-lg .navbar-nav .nav-link:hover {
-  color: #fff;
+  color: orange;
   border-bottom: 1px solid #fff;
 }
 
