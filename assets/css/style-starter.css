@@ -17042,6 +17042,10 @@ button.owl-next {
   }
 }
 
+.our-location{
+  display: flex;
+}
+
 /* //contact page */
 
 /* pagination blog page */
